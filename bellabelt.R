@@ -9,12 +9,12 @@ library(hms)
 library(readr)
 
 #Import files 
-activity <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv")
-calories <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/hourlyCalories_merged.csv")
-intensities <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/hourlyIntensities_merged.csv")
-sleep <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/sleepDay_merged.csv")
-weight <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/weightLogInfo_merged.csv")
-heart <- read.csv("C:/Users/Amr 10/Downloads/Fitabase Data 4.12.16-5.12.16/heartrate_seconds_merged.csv")
+activity <- read.csv("C:/Users/...../Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv")
+calories <- read.csv("C:/Users/...../Fitabase Data 4.12.16-5.12.16/hourlyCalories_merged.csv")
+intensities <- read.csv("C:/...../Fitabase Data 4.12.16-5.12.16/hourlyIntensities_merged.csv")
+sleep <- read.csv("C:/Users/...../Fitabase Data 4.12.16-5.12.16/sleepDay_merged.csv")
+weight <- read.csv("C:/Users/...../Fitabase Data 4.12.16-5.12.16/weightLogInfo_merged.csv")
+heart <- read.csv("C:/Users/...../Fitabase Data 4.12.16-5.12.16/heartrate_seconds_merged.csv")
 
 #Fix date format
 
