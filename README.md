@@ -7,6 +7,8 @@ Analyze smart device usage data in order to gain insight into how consumers use 
 
 ## Documentation
 
+![Logo](https://github.com/Amr-mohamed10/Bellabeat_Analysis/blob/main/Bellabeat.jpg)
+
 ### About the company
 Bellabeat is a high-tech company that manufactures health-focused smart products. Bellabeat collects data on activity, sleep, stress, and reproductive health and uses these data to empower women with knowledge about their own health and habits.
 
@@ -28,3 +30,13 @@ _Tools: Excel, and R Studio The data comes from the company so it is trustworthy
 ## License
 
 [Appache](https://choosealicense.com/licenses/apache-2.0/)
+
+## __Report__
+
+![Visual1](https://github.com/Amr-mohamed10/Bellabeat_Analysis/blob/main/Visualization/Mins_Sleep%20vs%20Sedentary%20mins.PNG)
+
+![Visual2](https://github.com/Amr-mohamed10/Bellabeat_Analysis/blob/main/Visualization/Total_steps%20vs%20weekday.PNG)
+
+![visual3](https://github.com/Amr-mohamed10/Bellabeat_Analysis/blob/main/Visualization/Total_steps%20vs%20Calories.PNG)
+
+![visual4](https://github.com/Amr-mohamed10/Bellabeat_Analysis/blob/main/Visualization/Recommendation.PNG)
